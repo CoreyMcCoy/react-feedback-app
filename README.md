@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Reviews App
+
+This is a mini React project that can be used as a stand-a-lone app or website feature. A user can leave a review or comment, and rating. Text can be editted, or deleted.   
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
